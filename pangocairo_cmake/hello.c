@@ -6,7 +6,7 @@ draw_text (cairo_t *cr)
 {
 #define RADIUS 150
 #define N_WORDS 10
-#define FONT "Sans Normal 10"
+#define FONT "Microsoft YaHei, Normal 12px"
 
   PangoLayout *layout;
   PangoFontDescription *desc;
