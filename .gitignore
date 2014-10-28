@@ -1,0 +1,15 @@
+*.zip
+*.pdf
+*.o
+build/
+build*/
+*.last
+*~
+*.png
+node_modules/
+*.log
+GPATH
+GRTAGS
+GTAGS
+*#
+

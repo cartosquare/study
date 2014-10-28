@@ -1,0 +1,14 @@
+{
+  "name": "hello_package",
+  "version": "0.0.1",
+  "description": "say hello to package",
+  "keywords": [],
+  "author": "xuxiang <xuxiang@mail.bnu.edu.cn>",
+  "repository": { "type": "git", "url": "git://github.com/xuxiang/hello_package.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
